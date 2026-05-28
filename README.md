@@ -1,2 +1,2 @@
-# comparison-between-1C-iiko-TakskomKassa-Sberbank
+# university assignments
 An application for data comparison. Accounting Department
